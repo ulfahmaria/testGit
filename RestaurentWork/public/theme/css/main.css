@@ -1,0 +1,66 @@
+.category{
+    margin-top: 12px;
+    color: #005238;
+    font-family: 'Roboto', sans-serif;
+    font-weight:600;
+}
+
+/*.send {*/
+    /*!*padding: 1em 1em 0;*!*/
+/*}*/
+
+/*.single-grid input[type="submit"] {*/
+    /*font-size: 1.2em;*/
+    /*background: white;*/
+    /*!*padding: 0.5em 2em;*!*/
+    /*text-align: center;*/
+    /*color: #fff;*/
+    /*border: none;*/
+    /*outline: none;*/
+    /*margin: 0 auto;*/
+    /*-webkit-appearance: none;*/
+    /*font-weight: 700;*/
+    /*transition: 0.5s all;*/
+    /*-webkit-transition: 0.5s all;*/
+    /*-o-transition: 0.5s all;*/
+    /*-ms-transition: 0.5s all;*/
+    /*-moz-transition: 0.5s all;*/
+/*}*/
+
+.form-group{
+    margin-top: 35px;
+}
+
+.menu {
+    padding: 6em 0;
+}
+.contact {
+    padding: 0;
+}
+
+.events {
+    padding: 6em 0;
+}
+
+.custom-pagination {
+    /*margin-top: -15%;*/
+    text-align: right;
+
+}
+
+.form-control {
+    padding-left: 10px;
+}
+
+#map {
+    height: 320px !important;
+    width: 90% !important;
+    position: absolute !important;
+}
+.address {
+    /*margin-top: 315px !important;*/
+}
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
